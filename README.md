@@ -6,7 +6,7 @@ This is a plugin to redirect users with a Dynamic Action.
 - APEX 5.0 or higher (not tested for older versions)
 
 ## Install
-- Import plugin file "dynamic_action_plugin_mho_refresh_tree.sql" from source directory into your application
+- Import plugin file "dynamic_action_plugin_mho_redirect.sql" from source directory into your application
 - (Optional) Deploy the JS from "server" directory on your webserver and change the "File Prefix" to webservers folder.
 
 ## How to use
