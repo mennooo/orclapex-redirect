@@ -1,4 +1,4 @@
-# Oracle APEX Dynamic Action Plug-in - APEX TreeView Refresh
+# Oracle APEX Dynamic Action Plug-in: Redirect
 
 This is a plug-in to redirect users with a Dynamic Action.
 
