@@ -1,17 +1,17 @@
-# Oracle APEX Dynamic Action Plugin - APEX TreeView Refresh
+# Oracle APEX Dynamic Action Plug-in - APEX TreeView Refresh
 
-This is a plugin to redirect users with a Dynamic Action.
+This is a plug-in to redirect users with a Dynamic Action.
 
 ## Prerequisite
 - APEX 5.0 or higher (not tested for older versions)
 
 ## Install
-- Import plugin file "dynamic_action_plugin_mho_redirect.sql" from source directory into your application
+- Import plug-in file "dynamic_action_plugin_mho_redirect.sql" from source directory into your application
 - (Optional) Deploy the JS from "server" directory on your webserver and change the "File Prefix" to webservers folder.
 
 ## How to use
 - Create a dynamic action
-- Select the plugin as the Action and set the attributes
+- Select the plug-in as the Action and set the attributes
 
 ### Attributes
 <table>
