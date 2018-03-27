@@ -14,7 +14,6 @@ window.mho = window.mho || {}
 
   // Change the triggering element in the dialog function
   function _replaceDialogCode (da) {
-
     // Replace dialog function
     apex.navigation.dialog = function () {
       // Create an array of all arguments
